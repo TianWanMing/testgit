@@ -21,7 +21,7 @@ public class index {
 //	clean tomcat7:run
 	@RequestMapping("/updata")
 	public String name() {
-		System.out.println("---++++++-----");
+		System.out.println("---+++++33333333333333333+-----");
 		return "uploand";
 	}
 	@RequestMapping(value="/uploadzip",method=RequestMethod.POST)
