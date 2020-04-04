@@ -22,6 +22,14 @@ public class index {
 	@RequestMapping("/updata")
 	public String name() {
 		System.out.println("---++++++---2222222222222222--");
+
+		System.out.println("---++++++---2222222222222222--");
+
+		System.out.println("---++++++---2222222222222222--");
+
+		System.out.println("---++++++---2222222222222222--");
+
+		System.out.println("---++++++---2222222222222222--");
 		return "uploand";
 	}
 	@RequestMapping(value="/uploadzip",method=RequestMethod.POST)
