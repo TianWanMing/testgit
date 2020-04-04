@@ -22,6 +22,7 @@ public class index {
 	@RequestMapping("/updata")
 	public String name() {
 		System.out.println("---+++++33333333333333333+-----");
+		System.out.print("顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶");
 		System.out.println("---++++++---2222222222222222--");
 		return "uploand";
 	}
